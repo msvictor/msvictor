@@ -1,6 +1,6 @@
 # Victor Gabriel
 
-<img align="right" src=".github/images/3426526.jpg" width="500px"/>
+<img align="right" src=".github/images/3426526.jpg" width="400px"/>
 
 [![Twitter Badge](https://img.shields.io/badge/-@victorg_ms-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/victorg_ms)](https://twitter.com/victorg_ms) [![Linkedin Badge](https://img.shields.io/badge/-VictorGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-gabriel-1b02001b0/)](https://www.linkedin.com/in/victor-gabriel-1b02001b0/)
 [![Gmail Badge](https://img.shields.io/badge/-vgabriel.vg84@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vgabriel.vg84@gmail.com)](mailto:vgabriel.vg84@gmail.com)
