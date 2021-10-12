@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@victorg_ms-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/victorg_ms)](https://twitter.com/victorg_ms) [![Linkedin Badge](https://img.shields.io/badge/-VictorGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-gabriel-1b02001b0/)](https://www.linkedin.com/in/victor-gabriel-1b02001b0/)
 [![Gmail Badge](https://img.shields.io/badge/-vgabriel.vg84@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vgabriel.vg84@gmail.com)](mailto:vgabriel.vg84@gmail.com)
 
-- 🦎 I’m currently working at [NWSys](https://nwsys.com.br/)
+- I’m currently working at [Zappts](https://www.zappts.com.br/)
 - <img src="https://www.emoji.com/wp-content/uploads/filebase/icons/emoji-icon-glossy-00-04-faces-face-role-ninja-72dpi-forPersonalUseOnly.png" width="20px"> I'm a full stack developer
 - 💻 Javascript, Typescript, React Native, ReactJS, Next.js, Node.js, Flutter   
 - ✨ Learning is continuous and there will always be a next level
