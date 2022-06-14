@@ -6,13 +6,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-vgabriel.vg84@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vgabriel.vg84@gmail.com)](mailto:vgabriel.vg84@gmail.com)
 
 - I’m currently working at [Zappts](https://www.zappts.com.br/)
-- <img src="https://www.emoji.com/wp-content/uploads/filebase/icons/emoji-icon-glossy-00-04-faces-face-role-ninja-72dpi-forPersonalUseOnly.png" width="20px"> I'm a full stack developer
-- 💻 Javascript, Typescript, React Native, ReactJS, Next.js, Node.js, Flutter   
+- <img src="https://www.emoji.com/wp-content/uploads/filebase/icons/emoji-icon-glossy-00-04-faces-face-role-ninja-72dpi-forPersonalUseOnly.png" width="20px"> I'm a mobile developer
+- 💻 I know about: Javascript, Typescript, React Native, ReactJS, Next.js, Node.js, Flutter, Kotlin   
 - ✨ Learning is continuous and there will always be a next level
 - 💬 Ask me about: tech, games, movies
 
 <div>
-  <a href="https://github.com/victorgabrielms">
+  <a href="https://github.com/msvictor">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msvictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
