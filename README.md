@@ -3,7 +3,7 @@
 ## Hi there! Welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-VictorGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-silva-1b02001b0/)](https://www.linkedin.com/in/victor-silva-1b02001b0/)
-[![Gmail Badge](https://img.shields.io/badge/-victor.gabriel@cerradotech.com-c14438?style=flat-square&logo=Mail&logoColor=white&link=mailto:victor.gabriel@cerradotech.com)](mailto:victor.gabriel@cerradotech.com)
+[![Gmail Badge](https://img.shields.io/badge/-victor.gabriel@cerradotech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.gabriel@cerradotech.com)](mailto:victor.gabriel@cerradotech.com)
 
 - 📱 I'm a mobile developer
 - 💻 I know about: Javascript, Typescript, React Native, ReactJS, Next.js, Node.js, Flutter, Kotlin   
